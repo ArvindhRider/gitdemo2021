@@ -14,6 +14,7 @@ public   class jdbcconection
 {
 public static ArrayList<String> jdbc() throws SQLException
 	{
+	//I discovered this today
 		ArrayList<String> al = new ArrayList<String>();
 		String host="localhost";
 
