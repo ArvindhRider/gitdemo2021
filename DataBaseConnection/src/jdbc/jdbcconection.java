@@ -15,6 +15,7 @@ public   class jdbcconection
 public static ArrayList<String> jdbc() throws SQLException
 	{
 	//I discovered this today
+	//and I am going to check about branch merge with master
 		ArrayList<String> al = new ArrayList<String>();
 		String host="localhost";
 
